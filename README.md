@@ -10,7 +10,7 @@ This project demonstrates advanced algorithmic problem-solving through the imple
 
 - **Multiple Solving Algorithms**
   - DFS (Depth-First Search) with depth limiting
-  - BFS (Breadth-First Search) for optimal solutions
+  - BFS (Breadth-First Search) for optimal solution
   - IDDFS (Iterative Deepening DFS) for memory efficiency
   - IDA* (Iterative Deepening A*) with heuristic optimization
 
